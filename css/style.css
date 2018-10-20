@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+
+h1 {
+    text-align: center;
+    color: purple;
+    font-family: Srisakdi, serif;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: gray;
+}
+
+
+#map {
+  height: 75%;
+  width: 75%;
+  margin: auto;
+  margin-top: 50px;
+}
