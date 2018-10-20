@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Srisakdi');
 
-h1 {
+h1, h2 {
     text-align: center;
     color: purple;
     font-family: Srisakdi, serif;
@@ -12,8 +12,7 @@ html, body {
   padding: 0;
 }
 
-
-.row, .container {
+.google, .container {
   height: 100%;
 }
 
